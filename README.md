@@ -1,5 +1,7 @@
-
-# Getting Started with Create React App
+# Restaurant App
+- This is a restaurant menu app which uses React JS and HTML/CSS.
+- It shows the items in restaurant menu as per the specific time of their availability.
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
