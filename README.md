@@ -1,7 +1,8 @@
 # Restaurant App
 - This is a restaurant menu app which uses React JS and HTML/CSS.
 - It shows the items in restaurant menu as per the specific time of their availability.
-- ![image](https://user-images.githubusercontent.com/56317982/151847580-0cc1a634-02cd-42d9-b8b0-fbaefb63040f.png)
+
+ ![image](https://user-images.githubusercontent.com/56317982/151847580-0cc1a634-02cd-42d9-b8b0-fbaefb63040f.png)
 
 ## Getting Started with Create React App
 
