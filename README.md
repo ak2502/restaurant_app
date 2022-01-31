@@ -3,6 +3,9 @@
 - It shows the items in restaurant menu as per the specific time of their availability.
 
  ![image](https://user-images.githubusercontent.com/56317982/151847580-0cc1a634-02cd-42d9-b8b0-fbaefb63040f.png)
+ 
+ ![image](https://user-images.githubusercontent.com/56317982/151847785-cc8e1e05-29fc-4646-b821-d41e3fba7612.png)
+
 
 ## Getting Started with Create React App
 
